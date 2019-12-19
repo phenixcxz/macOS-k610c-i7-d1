@@ -41,13 +41,9 @@
 					<key>Disabled</key>
 					<false/>
 					<key>Find</key>
-					<data>
-					U0FUMA==
-					</data>
+					<data>U0FUMA==</data>
 					<key>Replace</key>
-					<data>
-					U0FUQQ==
-					</data>
+					<data>U0FUQQ==</data>
 				</dict>
 				<dict>
 					<key>Comment</key>
@@ -55,13 +51,9 @@
 					<key>Disabled</key>
 					<false/>
 					<key>Find</key>
-					<data>
-					SEVDSQ==
-					</data>
+					<data>SEVDSQ==</data>
 					<key>Replace</key>
-					<data>
-					SU1FSQ==
-					</data>
+					<data>SU1FSQ==</data>
 				</dict>
 				<dict>
 					<key>Comment</key>
@@ -69,13 +61,9 @@
 					<key>Disabled</key>
 					<false/>
 					<key>Find</key>
-					<data>
-					RUhDMQ==
-					</data>
+					<data>RUhDMQ==</data>
 					<key>Replace</key>
-					<data>
-					RUgwMQ==
-					</data>
+					<data>RUgwMQ==</data>
 				</dict>
 				<dict>
 					<key>Comment</key>
@@ -83,13 +71,9 @@
 					<key>Disabled</key>
 					<false/>
 					<key>Find</key>
-					<data>
-					RUhDMg==
-					</data>
+					<data>RUhDMg==</data>
 					<key>Replace</key>
-					<data>
-					RUgwMg==
-					</data>
+					<data>RUgwMg==</data>
 				</dict>
 				<dict>
 					<key>Comment</key>
@@ -97,13 +81,9 @@
 					<key>Disabled</key>
 					<true/>
 					<key>Find</key>
-					<data>
-					oAqTU1RBUwE=
-					</data>
+					<data>oAqTU1RBUwE=</data>
 					<key>Replace</key>
-					<data>
-					oAqRCv8L//8=
-					</data>
+					<data>oAqRCv8L//8=</data>
 				</dict>
 				<dict>
 					<key>Comment</key>
@@ -111,13 +91,9 @@
 					<key>Disabled</key>
 					<false/>
 					<key>Find</key>
-					<data>
-					RUMwXw==
-					</data>
+					<data>RUMwXw==</data>
 					<key>Replace</key>
-					<data>
-					RUNfXw==
-					</data>
+					<data>RUNfXw==</data>
 				</dict>
 				<dict>
 					<key>Comment</key>
@@ -125,13 +101,9 @@
 					<key>Disabled</key>
 					<false/>
 					<key>Find</key>
-					<data>
-					SF9FQw==
-					</data>
+					<data>SF9FQw==</data>
 					<key>Replace</key>
-					<data>
-					RUNfXw==
-					</data>
+					<data>RUNfXw==</data>
 				</dict>
 				<dict>
 					<key>Comment</key>
@@ -139,13 +111,9 @@
 					<key>Disabled</key>
 					<false/>
 					<key>Find</key>
-					<data>
-					RUNEVg==
-					</data>
+					<data>RUNEVg==</data>
 					<key>Replace</key>
-					<data>
-					RUNfXw==
-					</data>
+					<data>RUNfXw==</data>
 				</dict>
 			</array>
 			<key>ReuseFFFF</key>
@@ -277,12 +245,7 @@
 		<key>EDID</key>
 		<dict>
 			<key>Custom</key>
-			<data>
-			AP///////wAGr+0SAAAAAAAWAQSVIhN4AgaVl1dTlCYcUFQAAAAB
-			AQEBAQEBAQEBAQEBAQEBPDeAwHA4IEAwII4AWMEQAAAYAAAADwAA
-			AAAAAAAAAAAAAAAgAAAA/gBBVU8KICAgICAgICAgAAAA/gBCMTU2
-			SEFOMDEuMiAKANk=
-			</data>
+			<data>AP///////wAGr+0SAAAAAAAWAQSVIhN4AgaVl1dTlCYcUFQAAAABAQEBAQEBAQEBAQEBAQEBPDeAwHA4IEAwII4AWMEQAAAYAAAADwAAAAAAAAAAAAAAAAAgAAAA/gBBVU8KICAgICAgICAgAAAA/gBCMTU2SEFOMDEuMiAKANk=</data>
 			<key>HorizontalSyncPulseWidth</key>
 			<string>0x20</string>
 			<key>Inject</key>
@@ -318,17 +281,13 @@
 				<key>Disabled</key>
 				<false/>
 				<key>Find</key>
-				<data>
-				RXh0ZXJuYWw=
-				</data>
+				<data>RXh0ZXJuYWw=</data>
 				<key>InfoPlistPatch</key>
 				<false/>
 				<key>Name</key>
 				<string>AppleAHCIPort</string>
 				<key>Replace</key>
-				<data>
-				SW50ZXJuYWw=
-				</data>
+				<data>SW50ZXJuYWw=</data>
 			</dict>
 			<dict>
 				<key>Comment</key>
@@ -336,17 +295,13 @@
 				<key>Disabled</key>
 				<false/>
 				<key>Find</key>
-				<data>
-				AEFQUExFIFNTRAA=
-				</data>
+				<data>AEFQUExFIFNTRAA=</data>
 				<key>InfoPlistPatch</key>
 				<false/>
 				<key>Name</key>
 				<string>com.apple.iokit.IOAHCIBlockStorage</string>
 				<key>Replace</key>
-				<data>
-				AAAAAAAAAAAAAAA=
-				</data>
+				<data>AAAAAAAAAAAAAAA=</data>
 			</dict>
 			<dict>
 				<key>Comment</key>
@@ -354,17 +309,13 @@
 				<key>Disabled</key>
 				<false/>
 				<key>Find</key>
-				<data>
-				AQUJAAAEAACHAAAAAgQJAAAEAACHAAAA
-				</data>
+				<data>AQUJAAAEAACHAAAAAgQJAAAEAACHAAAA</data>
 				<key>InfoPlistPatch</key>
 				<false/>
 				<key>Name</key>
 				<string>AppleIntelFramebufferAzul</string>
 				<key>Replace</key>
-				<data>
-				AgQJAAAIAACHAAAA/wAAAAEAAABAAAAA
-				</data>
+				<data>AgQJAAAIAACHAAAA/wAAAAEAAABAAAAA</data>
 			</dict>
 			<dict>
 				<key>Comment</key>
@@ -372,35 +323,13 @@
 				<key>Disabled</key>
 				<false/>
 				<key>Find</key>
-				<data>
-				AQAAAEAAAADWAAAABQUAAA==
-				</data>
+				<data>AQAAAEAAAADWAAAABQUAAA==</data>
 				<key>InfoPlistPatch</key>
 				<false/>
 				<key>Name</key>
 				<string>AppleIntelFrameBufferAzul</string>
 				<key>Replace</key>
-				<data>
-				AQAAAEAAAAAeAAAABQUAAA==
-				</data>
-			</dict>
-			<dict>
-				<key>Comment</key>
-				<string>0x0a260006 9MB cursor bytes (vbo), 2 ports only (RehabMan)</string>
-				<key>Disabled</key>
-				<false/>
-				<key>Find</key>
-				<data>
-				BgAmCgEDAwMAAAACAAAwAQAAYAA=
-				</data>
-				<key>InfoPlistPatch</key>
-				<false/>
-				<key>Name</key>
-				<string>AppleIntelFramebufferAzul</string>
-				<key>Replace</key>
-				<data>
-				BgAmCgEDAgIAAAACAAAwAQAAkAA=
-				</data>
+				<data>AQAAAEAAAAAeAAAABQUAAA==</data>
 			</dict>
 			<dict>
 				<key>Comment</key>
@@ -408,9 +337,7 @@
 				<key>Disabled</key>
 				<false/>
 				<key>Find</key>
-				<data>
-				AQAAdWQ=
-				</data>
+				<data>AQAAdWQ=</data>
 				<key>InfoPlistPatch</key>
 				<false/>
 				<key>MatchOS</key>
@@ -418,27 +345,21 @@
 				<key>Name</key>
 				<string>IOGraphicsFamily</string>
 				<key>Replace</key>
-				<data>
-				AQAA62Q=
-				</data>
+				<data>AQAA62Q=</data>
 			</dict>
 			<dict>
 				<key>Comment</key>
-				<string>Change VRAM 1536 -&gt; 2048 for 0x0a260006</string>
+				<string>01030303 00000002 00003001 00009000 00000080</string>
 				<key>Disabled</key>
 				<false/>
 				<key>Find</key>
-				<data>
-				AAAAYNkKAADZCgAAAAAAAA==
-				</data>
+				<data>AQMDAwAAAAIAADABAABgAAAAAGA=</data>
 				<key>InfoPlistPatch</key>
 				<false/>
 				<key>Name</key>
 				<string>AppleIntelFramebufferAzul</string>
 				<key>Replace</key>
-				<data>
-				AAAAgNkKAADZCgAAAAAAAA==
-				</data>
+				<data>AAAAgNkKAADZCgAAAAAAAA==</data>
 			</dict>
 			<dict>
 				<key>Comment</key>
@@ -446,9 +367,7 @@
 				<key>Disabled</key>
 				<false/>
 				<key>Find</key>
-				<data>
-				AQAAdSU=
-				</data>
+				<data>AQAAdSU=</data>
 				<key>InfoPlistPatch</key>
 				<false/>
 				<key>MatchOS</key>
@@ -456,9 +375,7 @@
 				<key>Name</key>
 				<string>IOGraphicsFamily</string>
 				<key>Replace</key>
-				<data>
-				AQAA6yU=
-				</data>
+				<data>AQAA6yU=</data>
 			</dict>
 		</array>
 	</dict>
@@ -471,9 +388,7 @@
 		<key>MLB</key>
 		<string>C17N60ZRFH00ABCDE</string>
 		<key>ROM</key>
-		<data>
-		AJD1+dCJ
-		</data>
+		<data>AJD1+dCJ</data>
 	</dict>
 	<key>SMBIOS</key>
 	<dict>
