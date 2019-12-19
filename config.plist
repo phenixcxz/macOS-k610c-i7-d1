@@ -349,7 +349,7 @@
 			</dict>
 			<dict>
 				<key>Comment</key>
-				<string>01030303 00000002 00003001 00009000 00000080</string>
+				<string>显存2048</string>
 				<key>Disabled</key>
 				<false/>
 				<key>Find</key>
@@ -359,7 +359,7 @@
 				<key>Name</key>
 				<string>AppleIntelFramebufferAzul</string>
 				<key>Replace</key>
-				<data>AAAAgNkKAADZCgAAAAAAAA==</data>
+				<data>AQMDAwAAAAIAADABAACQAAAAAIA=</data>
 			</dict>
 			<dict>
 				<key>Comment</key>
